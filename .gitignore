@@ -1,0 +1,6 @@
+__pycache__/
+dist/
+deploy/
+deployment.txt
+*.log
+*.tmp

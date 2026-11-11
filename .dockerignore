@@ -1,0 +1,9 @@
+.git
+.gitlab-ci.yml
+tests/
+scripts/
+dist/
+deploy/
+__pycache__/
+*.log
+*.tmp
